@@ -2,6 +2,9 @@
 
 namespace ShopPro.Class.Entities
 {
+    /// <summary>
+    /// Entidad que representa la tabla de productos.
+    /// </summary>
     public class Product
     {
         public int productid { get; set; }
