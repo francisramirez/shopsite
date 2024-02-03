@@ -1,0 +1,12 @@
+D:\proshop\shopsite\ShopPro\ShopPro.Class\bin\Debug\net6.0\ShopPro.Class.deps.json
+D:\proshop\shopsite\ShopPro\ShopPro.Class\bin\Debug\net6.0\ShopPro.Class.dll
+D:\proshop\shopsite\ShopPro\ShopPro.Class\bin\Debug\net6.0\ShopPro.Class.pdb
+D:\proshop\shopsite\ShopPro\ShopPro.Class\obj\Debug\net6.0\ShopPro.Class.csproj.AssemblyReference.cache
+D:\proshop\shopsite\ShopPro\ShopPro.Class\obj\Debug\net6.0\ShopPro.Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\proshop\shopsite\ShopPro\ShopPro.Class\obj\Debug\net6.0\ShopPro.Class.AssemblyInfoInputs.cache
+D:\proshop\shopsite\ShopPro\ShopPro.Class\obj\Debug\net6.0\ShopPro.Class.AssemblyInfo.cs
+D:\proshop\shopsite\ShopPro\ShopPro.Class\obj\Debug\net6.0\ShopPro.Class.csproj.CoreCompileInputs.cache
+D:\proshop\shopsite\ShopPro\ShopPro.Class\obj\Debug\net6.0\ShopPro.Class.dll
+D:\proshop\shopsite\ShopPro\ShopPro.Class\obj\Debug\net6.0\refint\ShopPro.Class.dll
+D:\proshop\shopsite\ShopPro\ShopPro.Class\obj\Debug\net6.0\ShopPro.Class.pdb
+D:\proshop\shopsite\ShopPro\ShopPro.Class\obj\Debug\net6.0\ref\ShopPro.Class.dll
