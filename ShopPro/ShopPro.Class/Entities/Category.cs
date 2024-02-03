@@ -28,8 +28,6 @@ namespace ShopPro.Class.Entities
             set { _categoryid = value; }
         }
 
-
-
         public string? CategoryName
         {
             get { return _categoryname; }
@@ -72,7 +70,6 @@ namespace ShopPro.Class.Entities
             get { return _creation_user; }
             set { _creation_user = value; }
         }
-
 
         public int? ModifyUser
         {
