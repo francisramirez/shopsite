@@ -1,11 +1,12 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using ShopPro.Class.Core;
+using System.ComponentModel.DataAnnotations;
 
 namespace ShopPro.Class.Entities
 {
     /// <summary>
     /// Entidad que representa la tabla de productos. test
     /// </summary>
-    public class Product
+    public class Product : BaseEntity
     {
         public int productid { get; set; }
 
@@ -16,14 +17,14 @@ namespace ShopPro.Class.Entities
         public int categoryid { get; set; }
         public decimal unitprice { get; set; }
         public bool discontinued { get; set; }
-        public DateTime creation_date { get; set; }
-        public int creation_user { get; set; }
-        public DateTime? modify_date { get; set; }
-        public int? modify_user { get; set; }
 
-        public int? delete_user { get; set; }
-
-        public DateTime? delete_date { get; set; }
-        public bool deleted { get; set; }
+        void SaveProduct() 
+        {
+            this.Save();
+        }
+        public override bool Exists()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
